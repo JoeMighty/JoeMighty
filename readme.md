@@ -1,12 +1,16 @@
-# Hi there, I'm Jobin Bennykutty 👋
+# Hi there, I'm Joe 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jobinbennykutty)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_JoeDesigns_)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4591-246X)
 
 ## About Me
 
-Creative technologist and educator bridging design and development. Teaching Fellow at Coventry University with expertise in graphic design, motion design, and web development.
+I'm a creative technologist and educator with a passion for bridging the gap between design and development. Currently serving as a Teaching Fellow at Coventry University, I bring together hands-on commercial design experience with academic excellence to shape the next generation of creative professionals.
 
+With a Master's degree in Graphic Design and professional certifications from Adobe and CMI, I specialize in graphic design, motion design, web development, and educational innovation. My work spans both academia and industry—from delivering Adobe Certified Professional training and integrating emerging technologies into creative education, to providing end-to-end design solutions for brands and organizations.
+
+I'm driven by the intersection of creativity, technology, and education, always exploring new ways to solve visual problems and empower others through design thinking.
 ## 🛠️ Technical Skills
 
 ### Design Tools
@@ -39,3 +43,4 @@ Creative technologist and educator bridging design and development. Teaching Fel
 
 
 </div>
+
