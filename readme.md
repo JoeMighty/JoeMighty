@@ -8,9 +8,10 @@
 
 I'm a creative technologist and educator with a passion for bridging the gap between design and development. Currently serving as a Teaching Fellow at Coventry University, I bring together hands-on commercial design experience with academic excellence to shape the next generation of creative professionals.
 
-With a Master's degree in Graphic Design and professional certifications from Adobe and CMI, I specialize in graphic design, motion design, web development, and educational innovation. My work spans both academia and industry—from delivering Adobe Certified Professional training and integrating emerging technologies into creative education, to providing end-to-end design solutions for brands and organizations.
+With a Master's degree in Graphic Design and professional certifications from Adobe and CMI, I specialize in graphic design, motion design, web development, and educational innovation. My work spans both academia and industry. I deliver Adobe Certified Professional training and integrate emerging technologies into creative education, while also providing end-to-end design solutions for brands and organizations.
 
 I'm driven by the intersection of creativity, technology, and education, always exploring new ways to solve visual problems and empower others through design thinking.
+
 ## 🛠️ Technical Skills
 
 ### Design Tools
@@ -41,6 +42,4 @@ I'm driven by the intersection of creativity, technology, and education, always 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoeMighty&color=blue&style=flat-square)
 
-
 </div>
-
