@@ -1,6 +1,7 @@
 # Hi there, I'm Jobin Bennykutty 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jobinbennykutty)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_JoeDesigns_)
 
 ## About Me
 
@@ -29,13 +30,12 @@ Creative technologist and educator bridging design and development. Teaching Fel
 
 ![Adobe Certified](https://img.shields.io/badge/Adobe%20Certified%20Associate-Photoshop-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Adobe Certified](https://img.shields.io/badge/Adobe%20Certified%20Professional-Web%20Design-FF0000?style=flat-square&logo=adobe&logoColor=white)
-![CMI](https://img.shields.io/badge/CMI%20Level%207-Strategic%20Management-00457C?style=flat-square)
-![CMI](https://img.shields.io/badge/CMI%20Level%207-Professional%20Consulting-00457C?style=flat-square)
 
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoeMighty&color=blue&style=flat-square)
+
 
 </div>
