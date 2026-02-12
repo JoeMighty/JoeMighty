@@ -40,6 +40,6 @@ I'm driven by the intersection of creativity, technology, and education, always 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoeMighty&color=blue&style=flat-square)
+//![Profile Views](https://komarev.com/ghpvc/?username=JoeMighty&color=blue&style=flat-square)
 
 </div>
